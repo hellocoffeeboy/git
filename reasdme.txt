@@ -4,4 +4,8 @@ it is b
 
 it is c
 
+<<<<<<< HEAD
 it is f
+=======
+it is d
+>>>>>>> featurel
